@@ -1,0 +1,35 @@
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\bin\Debug\Final.exe.config
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\bin\Debug\Final.exe
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\bin\Debug\Final.pdb
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.From.BangSinhVien.resources
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.From.BienBanThi.resources
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.Form1.resources
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.From.GiaoVien.resources
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.From.GioChuan.resources
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.From.Ky_Khoa.resources
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.From.LichCoiThi.resources
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.From.LichThi.resources
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.From.QuyDoi.resources
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.From.RaDe_ChamThi.resources
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.Properties.Resources.resources
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.exe
+c:\users\zzoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.pdb
+C:\Users\zZoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.From.MonHoc.resources
+C:\Users\zZoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.From.HoiDongNhaTruong.resources
+C:\Users\zZoke\documents\visual studio 2013\Projects\Final\Final\obj\Debug\Final.From.lop.resources
+C:\Users\2COTIEN\Desktop\Final\Final\Final\bin\Debug\Final.exe.config
+C:\Users\2COTIEN\Desktop\Final\Final\Final\obj\Debug\Final.exe
+C:\Users\2COTIEN\Desktop\Final\Final\Final\obj\Debug\Final.pdb
+C:\Users\2COTIEN\Desktop\Final\Final\Final\bin\Debug\Final.exe
+C:\Users\2COTIEN\Desktop\Final\Final\Final\bin\Debug\Final.pdb
+C:\Users\2COTIEN\Desktop\Final\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\2COTIEN\Desktop\Final\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\2COTIEN\Desktop\Final\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\2COTIEN\Desktop\Final\Final\Final\obj\Debug\Final.form.trangchinh.resources
+C:\Users\2COTIEN\Desktop\Final\Final\Final\obj\Debug\Final.form.view.resources
+C:\Users\2COTIEN\Desktop\Final\Final\Final\obj\Debug\Final.form.sanpham.resources
+C:\Users\2COTIEN\Desktop\Final\Final\Final\obj\Debug\Final.form.login.resources
+C:\Users\2COTIEN\Desktop\Final\Final\Final\obj\Debug\Final.form.banhang.resources
+C:\Users\2COTIEN\Desktop\Final\Final\Final\obj\Debug\Final.form.mathang.resources
